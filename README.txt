@@ -1,10 +1,13 @@
-2024.03.30 디바이스마트 공모전 출품작
+# smart_first_aid_box
+## 스마트 구급 상자
+### 개요
+> 2024.03.30 디바이스마트 공모전 출품작
 
-팀 구성
-이유진
-권유진
-신혜원
-이수빈
+> 팀 구성   
+> 이유진 [Leeyujin](https://github.com/Eugene821)     
+> 권유진 [Kwonyujin](https://github.com/tina908)     
+> 신혜원      
+> 이수빈   
 
 사용 부품
 - Raspberry pi4 (server)
